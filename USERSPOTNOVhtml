@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Spotlight | Lingstone – REDCap Africa</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+      background-color: #f5f5f5;
+      color: #000000;
+      line-height: 1.8;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 30px;
+      border-top: 6px solid #b11226;
+      text-align: center; /* centers content */
+    }
+
+    h1 {
+      color: #b11226;
+      margin-top: 0;
+    }
+
+    .spotlight-header img {
+      width: 180px;
+      border: 3px solid #b11226;
+      display: block;
+      margin: 0 auto 20px auto; /* centers image and adds bottom margin */
+    }
+
+    .spotlight-meta {
+      color: #000000;
+      text-align: center; /* centers text */
+    }
+
+    .spotlight-meta strong {
+      color: #b11226;
+      font-size: 18px;
+    }
+
+    a {
+      color: #b11226;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 13px;
+      color: #555555;
+      border-top: 1px solid #dddddd;
+      padding-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>User Spotlight</h1>
+
+    <div class="spotlight-header">
+      <img src="https://raw.githubusercontent.com/redcapafrica/REDCap-Africa-Newsletter/main/USERSPOTNOV.png" alt="Lingstone Chiume">
+
+      <div class="spotlight-meta">
+        <strong>Lingstone Chiume</strong><br>
+        Institute, Country
+
+      </div>
+    </div>
+
+
+
+
+<p>
+For over 12 years, I have been working in clinical data management. I’ve always looked at REDCap as more than just a place to store data. To me, it is a core piece of research infrastructure that can be built upon to support our larger goals.
+
+
+Over the years, I have used REDCap to manage and run several complex, longitudinal studies. My work involves building workflows that make life easier for researchers out in the field. For instance, managing offline data dictionaries has been essential for our teams who need to collect data in areas with unreliable internet.
+
+
+<p>  
+What I find most impactful about REDCap is its flexibility, especially when you look under the hood. I enjoy finding ways to connect it with our broader IT systems to better support remote teams. Because REDCap is so widely used and trusted, it has been a massive bridge for our projects. Using it has opened doors for us to collaborate seamlessly with leading institutions from South Africa and the USA. It standardises how we work together, and I believe there are potentially even more international partnerships on the way for us.
+<p> 
+Right now, a big focus for me is capacity building. I recently put together a training program covering everything from basic form building to API integration. I want to find better ways to teach non-technical researchers so they feel confident building their own projects independently.
+
+
+<p>
+If I had to share one lesson with other users and administrators, it would be to prioritize collaboration. Don’t work in a silo. Reach out to other institutions, share the custom solutions you have built, and lean on the wider community.</p>
+
+<p> 
+
+</p>
+   
+
+    <div class="footer">
+      REDCap Africa Consortium · User Spotlight
+    </div>
+
+  </div>
+
+</body>
+</html>
